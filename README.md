@@ -1,4 +1,4 @@
-# Py-function-lab
+# Py-function-lab - lab 3
 
 - Question 1: Write a function that takes two numbers and return their sum 
 - Question 2: Prints all the elements in the list using a for loop
