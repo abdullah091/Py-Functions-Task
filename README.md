@@ -6,4 +6,4 @@
 - Question 4: Write a Python program to get the largest number from the list
 - Question 5: write a function that take a list and a number then return a new partial list starting from index 0 to index "number"
 - Question 6: Loop through the letters in the string: "Tuwaiq_Academy
-- Question 7: Consider this ``` list = ["Python", "C++", "Java"] ``` Exit the loop when x is "C++" (use break)
+- Question 7: Consider this ``` list = ["Python", "C++", "Java"] ``` Exit the loop when x is "C++"
