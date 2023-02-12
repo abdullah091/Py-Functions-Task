@@ -1,4 +1,4 @@
-# Py-function-lab - lab 3
+# Py-Functions-Task
 
 
 ## Tasks:
@@ -17,7 +17,7 @@
 ## Additional Challenge:
 
 
-- Question 1: Build a phone book program that receives the phone number, and returns the name of the owner.
+- Build a phone book program that receives the phone number, and returns the name of the owner.
 You can follow the table below:
 
 ## Contact Table
